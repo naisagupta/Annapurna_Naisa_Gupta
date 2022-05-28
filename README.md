@@ -8,6 +8,14 @@ Face recognition based RATION DISTRIBUTION SYSTEM by using OpenCV(Python).
 <img src="https://opencv.org/wp-content/uploads/2021/02/1_HfZmZayUqnYioPC9qTfd4A.png" height="150" width="350"/>
 </p>
 
+
+## SCREENSHOTS:
+
+<img src="https://github.com/naisagupta/Annapurna_Naisa_Gupta/blob/main/Screenshots/welcome.jpg" height="300" width="500"/> <img src="https://github.com/naisagupta/Annapurna_Naisa_Gupta/blob/main/Screenshots/main.jpg" height="300" width="500"/>
+<img src="https://github.com/naisagupta/Annapurna_Naisa_Gupta/blob/main/Screenshots/add_person.jpg" height="300" width="500"/> <img src="https://github.com/naisagupta/Annapurna_Naisa_Gupta/blob/main/Screenshots/scan_person.jpg" height="300" width="500"/>
+<img src="https://github.com/naisagupta/Annapurna_Naisa_Gupta/blob/main/Screenshots/email.jpg" height="300" width="500"/> <img src="https://github.com/naisagupta/Annapurna_Naisa_Gupta/blob/main/Screenshots/email_em.jpg" height="300" width="500"/>
+
+
 ## TECHNOLOGIES USED:
 
 ● openCV (Open Source Computer Vision)
