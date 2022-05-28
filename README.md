@@ -1,9 +1,12 @@
-# ANNAPURNA
+# ANNAPURNA : Ration Distribution System
 ### Providing food to right people
 
 ## Project for Microsoft Engage 2022.
 
 Face recognition based RATION DISTRIBUTION SYSTEM by using OpenCV(Python).
+<p>
+<img src="https://opencv.org/wp-content/uploads/2021/02/1_HfZmZayUqnYioPC9qTfd4A.png" height="150" width="350"/>
+</p>
 
 ## TECHNOLOGIES USED:
 
@@ -79,7 +82,6 @@ Face recognition based RATION DISTRIBUTION SYSTEM by using OpenCV(Python).
 7. At the End , Click on "EMAIL RATION DISTRIBUTION LIST" - which will send you the csv file that contains name,id and date/time details for Ration Distribution.
 
 
-
 ### Useful Links:
 
 - Open CV - Python : https://pypi.org/project/opencv-python/
@@ -91,6 +93,8 @@ Face recognition based RATION DISTRIBUTION SYSTEM by using OpenCV(Python).
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naisa-gupta/) 
 
 
+## Project Submission for Microsoft Enagage 2022
+
 <p align="center">
-	MADE WITH :heart: &nbsp;BY <a href="https://github.com/naisagupta">NAISA GUPTA</a>
+	MADE BY <a href="https://github.com/naisagupta">NAISA GUPTA</a>
 </p>
