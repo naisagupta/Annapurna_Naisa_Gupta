@@ -27,7 +27,8 @@ Face recognition based RATION DISTRIBUTION SYSTEM by using OpenCV(Python).
 
 ## Installation:
 	
-- RUN : `https://github.com/naisagupta/Annapurna_Naisa_Gupta.git` 
+- RUN : `git clone https://github.com/naisagupta/Annapurna_Naisa_Gupta` or Download the repository.
+- Extract it and RUN file : main.py by -  `python main.py`
 	
 
 ### IMPORTANT :
