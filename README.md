@@ -97,6 +97,7 @@ Face recognition based RATION DISTRIBUTION SYSTEM by using OpenCV(Python).
 	
 - Documentation : https://drive.google.com/file/d/1OQnqMSHTCPe9enG6G-M3M649bjKY0VaI/view
 
+- Video Demo : https://drive.google.com/file/d/1ISWjmRz38AH5aGWeym0ML2dfESk2aqGV/view
 
 ### REACH ME:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naisa-gupta/) 
